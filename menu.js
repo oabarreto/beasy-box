@@ -17,26 +17,28 @@ menuToggle.addEventListener("click", function () {
 
   follow.classList.toggle("hidden", show);
 
+  console.log(show);
+
   menuSection.classList.toggle("on", show);
   show = !show;
 });
 
 home.addEventListener("click", function () {
-  document.body.style.overflow = show ? "hidden" : "initial";
+  document.body.style.overflow = "initial";
   menuSection.classList.toggle("on", show);
   follow.classList.toggle("hidden", show);
   show = !show;
 });
 
 about.addEventListener("click", function () {
-  document.body.style.overflow = show ? "hidden" : "initial";
+  document.body.style.overflow = "initial";
   menuSection.classList.toggle("on", show);
   follow.classList.toggle("hidden", show);
   show = !show;
 });
 
 contact.addEventListener("click", function () {
-  document.body.style.overflow = show ? "hidden" : "initial";
+  document.body.style.overflow = "initial";
   menuSection.classList.toggle("on", show);
   follow.classList.toggle("hidden", show);
   show = !show;
