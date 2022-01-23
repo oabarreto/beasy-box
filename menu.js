@@ -14,11 +14,7 @@ const contact = menuSection.querySelector(".contact-a");
 
 menuToggle.addEventListener("click", function () {
   document.body.style.overflow = show ? "hidden" : "initial";
-
   follow.classList.toggle("hidden", show);
-
-  console.log(show);
-
   menuSection.classList.toggle("on", show);
   show = !show;
 });
