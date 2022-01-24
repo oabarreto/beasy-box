@@ -17,7 +17,7 @@ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_<img src="https://cdn.jsdelivr.net/gh/devicon
 
 <br>
 
-###  Acessar pagina do projeto (on vercel)  _&nbsp;_  --> _&nbsp;_  [Beasybox](https://beasy-box.vercel.app/)
+###  Acessar página do projeto (on vercel)  _&nbsp;_  --> _&nbsp;_  [Beasybox](https://beasy-box.vercel.app/)
 
 ###  Projeto UI Figma  _&nbsp;_  --> _&nbsp;_  [Layout](https://www.figma.com/proto/yEs7BzsBEQs3LPg3lpO2aw/BeasyBox-LP?node-id=31%3A111)
 
