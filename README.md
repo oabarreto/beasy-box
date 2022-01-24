@@ -2,7 +2,7 @@
 
 ![bbfavicon](https://user-images.githubusercontent.com/90889081/150699066-0a301106-210a-4488-a362-8fba38e93ea8.svg)
 
-#### Meu primeiro projeto real. Landing page comercial. 
+#### Meu primeiro projeto freelancer. Landing page comercial. 
 
 - a <strong>Beasybox</strong> é um empresa iniciando no ramo de Marketing Digital, sendo assim tive a oportunidade de desenvolver o projeto de sua Landing page, desde a parte UI/Layout utilizando a ferramenta Figma, como também a criação dos códigos HTML, CSS e JavaScript. 
 
