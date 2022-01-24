@@ -7,7 +7,7 @@
 - a <strong>Beasybox</strong> é um empresa iniciando no ramo de Marketing Digital, sendo assim tive a oportunidade de desenvolver o projeto de sua Landing page, desde a parte UI/Layout utilizando a ferramenta Figma, como também a criação dos códigos HTML, CSS e JavaScript. 
 
 - [x] Responsividade;
-- [x] Menu Responivo.
+- [x] Menu Responsivo.
 
 <hr>
 
